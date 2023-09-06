@@ -13,7 +13,6 @@ def consulta_cep():
             print('O status code é: ', consulta.status_code)
 
             print('CEP Não encontrado \n')
-
         else: 
             print('O status code é: ', consulta.status_code)
 

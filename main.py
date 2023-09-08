@@ -23,7 +23,7 @@ def consulta_cep():
             ddd = requisicao['ddd']
             cidade = requisicao['localidade']
 
-            print('Resultado da busca: \n', )
+            print('Resultado da busca: \n')
 
             print('O CEP informado foi: %s.' % requisicao['cep'])
 

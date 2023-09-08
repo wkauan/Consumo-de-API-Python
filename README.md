@@ -9,7 +9,7 @@ Este é um programa Python simples que permite ao usuário consultar informaçõ
 
 ## Comportamento
 
-- Se o CEP for válido e for encontrado na API do ViaCEP, ele exibirá os detalhes do endereço, incluindo rua, bairro, UF e DDD.
+- Se o CEP for válido e for encontrado na API do ViaCEP, ele exibirá os detalhes do endereço, incluindo rua, bairro, cidade, UF e DDD.
 
 - Se o CEP for inválido, o programa indicará que o CEP é inválido.
 

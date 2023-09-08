@@ -9,7 +9,8 @@ def consulta_cep():
 
     if consulta.status_code == 200:
         requisicao = consulta.json()
-        if 'erro' in requisicao:      
+        if 'erro' in requisicao:
+            consulta.status_code = 404
             print('O status code é: ', consulta.status_code)
 
             print('CEP Não encontrado \n')

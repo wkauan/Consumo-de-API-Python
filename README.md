@@ -6,7 +6,7 @@ Este é um programa Python que permite ao usuário consultar informações de en
 
 - Instale o Python 3.x em `https://www.python.org/downloads/`
 - Utilize `git clone https://github.com/wkauan/Consumo-de-API-Python.git` para baixar o repositório
-- Utilize `pip install -r requirements.txt` para instalar a versão mais recente da biblioteca `requests`
+- Utilize `pip install -r requirements.txt` para instalar a versão utilizada da biblioteca `requests`
 
 ## Como Usar
 
